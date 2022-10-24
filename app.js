@@ -66,11 +66,11 @@ function updateCart() {
 // calculate and render subtotal
 function renderSubtotal() {
   let totalPrice = 0,
-  tax = 0.06,
+
     totalItems = 0;
 
   cart.forEach((item) => {
-    totalPrice += item.price * item.numberOfUnits * tax;
+    totalPrice += item.price * item.numberOfUnits ;
     totalItems += item.numberOfUnits;
   });
 

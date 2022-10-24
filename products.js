@@ -10,12 +10,12 @@ const products = [
   },
   {
     id: 1,
-    name: "Cappuccino",
+    name: "apple",
     price: 3.99,
     instock: 100,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
-    imgSrc: "img/Cappuccino.jpg",
+    imgSrc: "img/GreenApple.jpg",
   },
   {
     id: 2,
@@ -27,6 +27,6 @@ const products = [
     imgSrc: "img/Latte.jpg",
   },
 
- 
+
 
 ];

@@ -15,7 +15,7 @@ const products = [
     instock: 100,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
-    imgSrc: "img/GreenApple.jpg",
+    imgSrc: "img/GreenApples.jpg",
   },
   {
     id: 2,
@@ -24,7 +24,25 @@ const products = [
     instock: 10,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
-    imgSrc: "img/Latte.jpg",
+    imgSrc: "img/latte.jpg",
+  },
+  {
+    id: 3,
+    name: "Green Tea",
+    price: 4.19,
+    instock: 10,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+    imgSrc: "img/greenTea.jpg",
+  },
+  {
+    id: 4,
+    name: "Orange",
+    price: 1.69,
+    instock: 10,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+    imgSrc: "img/Oranges.jpg",
   },
 
 
